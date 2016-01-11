@@ -1,0 +1,1943 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<META http-equiv=Content-Type content="text/html; charset=BIG5">
+<title>開眼電影電視娛樂網 @movies http://www.atmovies.com.tw </title> 
+<link href="/pub/css/common.css" rel="stylesheet" type="text/css" />
+<link href="/pub/css/tv.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="wrapper">
+<script>
+<!--
+	function checkinput2()
+	{ 
+	     if ((document.all_search.search_term.value == "") || (document.all_search.search_term.value.length ==0) || (document.all_search.search_term.value == "電影相關搜尋"))
+	        {
+        	       alert("搜尋字串不可空白！！\n請重新輸入查詢！");
+		       document.all_search.search_term.focus();
+        	       return false;
+        	}        
+	}
+-->
+</script>
+
+	<div id="header">
+		<div id="logo"><a href="http://www.atmovies.com.tw"><img src="http://images.atmovies.com.tw/images/logo_atmovies.gif" alt="開眼首頁" /></a></div><!-- logo end -->
+		<div id="globalheader">	
+			  <div id="mainmenu">
+				<ul id="menu">
+				    <li><a class="nav01" href="http://www.atmovies.com.tw/home/movie_homepage.html">電影</a></li>
+				    <li><a class="nav02a" href="http://www.atmovies.com.tw/home/tv_homepage.html">電視</a></li>
+				    <li><a class="nav03" href="http://eweekly.atmovies.com.tw/home/">e週報</a></li>
+				    <li><a class="nav04" href="http://www.atmovies.com.tw/home/news_homepage.html">新聞</a></li>
+				    <li><a class="nav05" href="http://app.atmovies.com.tw/activity/activity.cfm">活動</a></li>
+				    <li><a class="nav08" href="http://app.atmovies.com.tw/atmdb/atmdb.cfm" target="_blank">資料館</a></li>
+				    <li><a class="nav06" href="http://space.atmovies.com.tw/space/spacehome.cfm" target="_blank">分享</a></li>
+				    <li><a class="nav07" href="http://bbs.atmovies.com.tw/bbs/bbs.cfm">BBS</a></li>
+				    <li><a class="nav09" href="http://gallery.photowant.com/B/" target="_blank">圖王</a></li>
+				    <li><a class="nav10" href="http://www.hamovie.com.tw/hamoviehome.html">哈電e族</a></li>
+				</ul>
+				
+				 <div class="search_area">
+				      <form class=search_box name=all_search action="http://search.atmovies.com.tw/search/search.cfm" method=post onsubmit="return checkinput2();">
+				      <table cellSpacing=0 cellPadding=0>
+				        <tbody>
+				        <tr>
+				          <td>
+				            <div class=search_b2>
+					            <div class=search_b1><input name=search_term class="search_qbox" style="color:#666;" type="text" title="搜尋" value="電影相關搜尋" onfocus="if (this.value == '電影相關搜尋') this.value = '';"><input class="search_qbtn" title="搜尋" tabIndex=0 type="submit"></div>
+				            </div>
+				          </td>
+				          <td><a href="http://search.atmovies.com.tw/search/search.cfm?action=advance"><img src="http://images.atmovies.com.tw/images/btn_search_advn.gif" style="margin-top:3px;" title="進階搜尋"></a></td>
+				        </tr>
+				       </tbody>
+				     </table>
+				     <input type=hidden name=type value="all">
+				     <input type=hidden name=action value="home">
+             <input type=hidden name=fr value="bbs">
+             <input type=hidden name=enc value="utf-8">
+				     </form>				
+				</div><!-- search_area end -->				
+			  </div><!-- mainmenu end -->
+			
+		<div class="clear"></div>			
+
+		</div><!-- globalheader end -->	
+
+	</div><!-- header end -->
+<div id="container">
+
+  <!-- right start -->
+  <div id="right">
+	
+<div class="right_nav">
+   <ul>
+	<li><a href="/tv/attv.cfm?action=showtime">目前放映</a></li>
+	<li><a href="/tv/attv.cfm?action=todaytime">今日節目表</a></li>
+	<li><a href="/tv/attv.cfm?action=channeltime">頻道節目表</a></li>
+	<li><a href="/tv/attv.cfm?action=special">節目精選</a></li> 
+	<li><a href="/tv/attv.cfm?action=channel">頻道列表</a></li>  
+	<li><a href="/tv/attv.cfm?action=cable">有線電視</a></li>    
+	<li><a href="/tv/attv.cfm?action=search">節目搜尋</a></li>  
+   </ul>
+</div>		  
+
+
+<div style="text-align:center">
+<script type="text/javascript"><!--
+google_ad_client = "pub-6580532459519002";
+/* 120x600, 已建立 2007/11/20 */
+google_ad_slot = "6126849263";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+
+	
+
+
+
+ </div><!--right end -->
+
+  
+	<div id="main">
+<!--GoogleAD-->
+<div style="position:absolute;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-6580532459519002";
+/* 728x90, 已建立 2010/11/23 */
+google_ad_slot = "5925436311";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div style="margin-top:100px;"></div>
+		
+		
+	
+
+
+
+	
+	
+
+&nbsp;&nbsp; <img name="submenu1" border="0" src="http://images.atmovies.com.tw/images/attv_icon03-2.gif" width="20" height="20" align="absmiddle" vspace=10><font color=#ff0000 class=at11>今日節目表</font>
+
+<table border=0  cellspacing="0" cellpadding="0">
+<TD valign=top><img src="http://images.atmovies.com.tw/images/spacer.gif" width=20 height=10><font class=at15><B>01-11 <font class=at11>(一)</B></font></font></TD>
+<TD valign=top><img src="http://images.atmovies.com.tw/images/spacer.gif" width=30 height=30></td>
+<td valign=top><a href="/tv/attv.cfm?action=todaytime&tday=2016-01-10&group_id=M"><img src="http://images.atmovies.com.tw/images/tv_previous.gif" border=0 vspace=2></a></td>
+<TD valign=top><img src="http://images.atmovies.com.tw/images/spacer.gif" width=20 height=10></td>
+<td valign=top><a href="/tv/attv.cfm?action=todaytime&tday=2016-01-12&group_id=M"><img src="http://images.atmovies.com.tw/images/tv_next.gif" border=0 vspace=2></a></td>
+<td><img src="http://images.atmovies.com.tw/images/spacer.gif" width=80 height=10></td>
+<td align=center>
+</td>	
+
+</table>
+
+<table border=0  cellspacing="0" cellpadding="0" width="96%" align="center">
+  <TR><TD colspan=3>
+	<table border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
+	<TR>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=A">綜合</a></TD>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=T">戲劇</a></TD>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=G">綜藝</a></TD>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=N">新聞</a></TD>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=D">數位</a></TD>
+	    
+	    <TD align=center class=at9 bgcolor=#CDDCAA>西片</TD>
+	      
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=L">國片</a></TD>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=C">卡通</a></TD>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=E">新知</a></TD>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=J">日本</a></TD>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=S">體育</a></TD>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=V">音樂</a></TD>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=F">財經</a></TD>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=R">宗教</a></TD>
+	    
+	    <TD align=center class=at9><a target="_self" href="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=O">MOD</a></TD>
+	    
+  <TR><TD colspan=16 bgcolor=#CDDCAA><img src="http://images.atmovies.com.tw/images/spacer.gif" width=360 height=4></td>
+	</table>
+        
+	</TD>
+  <TR><TD>
+	
+	
+	
+		<a name="CH56"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            	<a class=at15b target="_self" href="/tv/attv.cfm?action=channeltime&channel_id=CH56&tday=2016-01-11">HBO電影台</a>
+	<table border="1" cellspacing="1" cellpadding="2" class="at9" width="90%" align="center" bordercolor="#cddcaa">
+          <tr> 
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81">時間</td>
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81" width="50%">片名</td>
+		
+			<tr>
+     	
+    
+            <td align="center" class=at9>23:05</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601102305&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>惡鄰纏身 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>00:35</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601110035&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>魔人爭霸S1 </font></a><font color=#606060> 07</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>01:05</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601110105&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>魔人爭霸S1 </font></a><font color=#606060> 08</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>01:40</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601110140&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>刺殺據點 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>03:10</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601110310&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>負罪先知：華倫傑夫 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>04:35</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601110435&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>超人集中營 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>06:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601110600&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>大頭仔天空 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>07:20</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601110720&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>天降神蹟 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>09:05</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601110905&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>心靈角落 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>12:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601111200&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>怒火特攻隊 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr bgcolor=#FDFE8E>
+     	
+    
+            <td align="center" class=at9>14:10</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601111410&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>班傑明的奇幻旅程 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>16:50</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601111650&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>貝多芬寶藏傳說 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>18:30</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601111830&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>好萊塢好好看 </font></a><font color=#606060> 631</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>18:55</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601111855&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>時空線索 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>21:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601112100&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>當我們混在一起 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>22:55</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH56201601112255&tday=2016-01-11&channel_id=CH56">
+            <font class=at11>決勝21點 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+	</table><BR>
+	
+		<a name="CH57"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            	<a class=at15b target="_self" href="/tv/attv.cfm?action=channeltime&channel_id=CH57&tday=2016-01-11">東森洋片台</a>
+	<table border="1" cellspacing="1" cellpadding="2" class="at9" width="90%" align="center" bordercolor="#cddcaa">
+          <tr> 
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81">時間</td>
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81" width="50%">片名</td>
+		
+			<tr>
+     	
+    
+            <td align="center" class=at9>23:45</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH57201601102345&tday=2016-01-11&channel_id=CH57">
+            <font class=at11>普羅米修斯 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>02:20</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH57201601110220&tday=2016-01-11&channel_id=CH57">
+            <font class=at11>貝武夫：北海的詛咒 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>04:40</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH57201601110440&tday=2016-01-11&channel_id=CH57">
+            <font class=at11>帝國戰記 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>07:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH57201601110700&tday=2016-01-11&channel_id=CH57">
+            <font class=at11>好孕大作戰 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>09:20</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH57201601110920&tday=2016-01-11&channel_id=CH57">
+            <font class=at11>奪天書 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>11:45</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH57201601111145&tday=2016-01-11&channel_id=CH57">
+            <font class=at11>神鬼奇航3：世界的盡頭 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr bgcolor=#FDFE8E>
+     	
+    
+            <td align="center" class=at9>15:05</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH57201601111505&tday=2016-01-11&channel_id=CH57">
+            <font class=at11>納尼亞傳奇：賈思潘王子 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>18:10</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH57201601111810&tday=2016-01-11&channel_id=CH57">
+            <font class=at11>鋼鐵擂台 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>21:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH57201601112100&tday=2016-01-11&channel_id=CH57">
+            <font class=at11>普羅米修斯 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>23:35</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH57201601112335&tday=2016-01-11&channel_id=CH57">
+            <font class=at11>終極災難電影 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+	</table><BR>
+	
+		<a name="CH58"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            	<a class=at15b target="_self" href="/tv/attv.cfm?action=channeltime&channel_id=CH58&tday=2016-01-11">AXN動作台</a>
+	<table border="1" cellspacing="1" cellpadding="2" class="at9" width="90%" align="center" bordercolor="#cddcaa">
+          <tr> 
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81">時間</td>
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81" width="50%">片名</td>
+		
+			<tr>
+     	
+    
+            <td align="center" class=at9>00:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601110000&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>地下弑 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>02:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601110200&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>諜影行動 </font></a><font color=#606060> #1</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>03:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601110300&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>諜影行動 </font></a><font color=#606060> #2</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>04:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601110400&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>噬血真愛 第6季 </font></a><font color=#606060> #8</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>05:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601110500&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>驚險大挑戰 第24季 </font></a><font color=#606060> #4</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>06:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601110600&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>超自然檔案 第9季 </font></a><font color=#606060> #3</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>07:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601110700&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>頂尖主廚大對決 第11季 </font></a><font color=#606060> #16</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>08:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601110800&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>凸槌大爆笑 </font></a><font color=#606060> #9 </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>08:30</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601110830&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>凸槌大爆笑 </font></a><font color=#606060> #10 </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>09:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601110900&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>密室大脫逃 </font></a><font color=#606060> #3</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>10:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601111000&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>CSI犯罪現場 第15季 </font></a><font color=#606060> #2 </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>11:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601111100&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>謀殺入門課 </font></a><font color=#606060> #7 </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>12:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601111200&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>雙面人魔 第1季 </font></a><font color=#606060> #11</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>13:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601111300&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>雙面人魔 第1季 </font></a><font color=#606060> #12</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>14:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601111400&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>CSI犯罪現場 第15季 </font></a><font color=#606060> #2 </font></font>
+            </td>            
+
+
+  	
+			<tr bgcolor=#FDFE8E>
+     	
+    
+            <td align="center" class=at9>15:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601111500&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>謀殺入門課 </font></a><font color=#606060> #7 </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>16:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601111600&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>頂尖主廚大對決 第11季 </font></a><font color=#606060> #17</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>17:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601111700&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>密室大脫逃 </font></a><font color=#606060> #3</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>18:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601111800&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>凸槌大爆笑 </font></a><font color=#606060> #11 </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>18:30</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601111830&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>凸槌大爆笑 </font></a><font color=#606060> #12 </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>19:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601111900&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>密室大脫逃 </font></a><font color=#606060> #4</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>20:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601112000&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>謀殺入門課 </font></a><font color=#606060> #8 </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>21:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601112100&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>諜影行動 </font></a><font color=#606060> #3 </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>22:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601112200&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>諜影行動 </font></a><font color=#606060> #4 </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>23:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH58201601112300&tday=2016-01-11&channel_id=CH58">
+            <font class=at11>CSI犯罪現場 第15季 </font></a><font color=#606060> #3 </font></font>
+            </td>            
+
+
+  	
+	</table><BR>
+	
+		<a name="CH60"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            	<a class=at15b target="_self" href="/tv/attv.cfm?action=channeltime&channel_id=CH60&tday=2016-01-11">STAR MOVIES</a>
+	<table border="1" cellspacing="1" cellpadding="2" class="at9" width="90%" align="center" bordercolor="#cddcaa">
+          <tr> 
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81">時間</td>
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81" width="50%">片名</td>
+		
+			<tr>
+     	
+    
+            <td align="center" class=at9>23:25</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601102325&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>五星主廚快餐車 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>01:50</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601110150&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>歡迎來到布達佩斯大飯店 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>03:45</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601110345&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>殺手少女 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>05:11</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601110511&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>殭屍哪有這麼正 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>06:50</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601110650&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>雞餓遊戲 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>08:25</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601110825&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>上帝也瘋狂 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>10:35</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601111035&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>大獨裁者落難記 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>12:05</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601111205&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>進擊的鼓手 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr bgcolor=#FDFE8E>
+     	
+    
+            <td align="center" class=at9>14:10</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601111410&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>星際大戰首部曲:威脅潛伏 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>16:40</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601111640&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>麻雀變公主2：皇家有約 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>18:50</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601111850&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>龐貝 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>21:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            <font color=#ff0000>☆</font>
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601112100&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>X戰警: 未來昔日 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>23:45</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH60201601112345&tday=2016-01-11&channel_id=CH60">
+            <font class=at11>28週毀滅倒數：全球封閉 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+	</table><BR>
+	
+		<a name="CH61"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            	<a class=at15b target="_self" href="/tv/attv.cfm?action=channeltime&channel_id=CH61&tday=2016-01-11">Cinemax</a>
+	<table border="1" cellspacing="1" cellpadding="2" class="at9" width="90%" align="center" bordercolor="#cddcaa">
+          <tr> 
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81">時間</td>
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81" width="50%">片名</td>
+		
+			<tr>
+     	
+    
+            <td align="center" class=at9>23:45</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601102345&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>猛龍怪客3 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>01:15</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601110115&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>2005殺無赦 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>02:40</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601110240&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>罪魁禍首 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>04:20</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601110420&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>大寒 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>06:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601110600&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>地平線 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>07:20</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601110720&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>龍兄鼠弟 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>09:05</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601110905&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>2槍斃命 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>10:50</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601111050&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>老天發威 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>12:30</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601111230&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>猛龍怪客3 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr bgcolor=#FDFE8E>
+     	
+    
+            <td align="center" class=at9>13:55</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601111355&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>鋼鐵人3 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>16:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601111600&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>凱恩艦事變 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>18:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601111800&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>好萊塢好好看 </font></a><font color=#606060> 630</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>18:25</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601111825&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>衝破顛峰 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>20:10</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601112010&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>水中的女人 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>22:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601112200&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>浪人47 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>23:55</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH61201601112355&tday=2016-01-11&channel_id=CH61">
+            <font class=at11>紐約醫情S2 </font></a><font color=#606060> 02</font></font>
+            </td>            
+
+
+  	
+	</table><BR>
+	
+		<a name="CH62"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            	<a class=at15b target="_self" href="/tv/attv.cfm?action=channeltime&channel_id=CH62&tday=2016-01-11">好萊塢電影台</a>
+	<table border="1" cellspacing="1" cellpadding="2" class="at9" width="90%" align="center" bordercolor="#cddcaa">
+          <tr> 
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81">時間</td>
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81" width="50%">片名</td>
+		
+			<tr>
+     	
+    
+            <td align="center" class=at9>23:15</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601102315&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>女優宿舍死亡實錄 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>01:15</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601110115&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>闇黑世界2 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>03:15</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601110315&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>這不是斯巴達 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>05:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601110500&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>遙遙歸鄉路 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>06:50</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601110650&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>巨石龍捲風 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>08:50</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601110850&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>即刻追擊 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>11:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601111100&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>海怪入侵 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>13:05</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601111305&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>無敵巨鯊VS史前鱷龍 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr bgcolor=#FDFE8E>
+     	
+    
+            <td align="center" class=at9>15:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601111500&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>長江七號 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>17:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601111700&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>遙遙歸鄉路 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>18:50</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601111850&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>地球過後 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>21:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601112100&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>網路驚魂2.0 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>23:05</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH62201601112305&tday=2016-01-11&channel_id=CH62">
+            <font class=at11>驚爆飛行 </font></a><font color=#606060> </font></font>
+            </td>            
+
+
+  	
+	</table><BR>
+	
+		<a name="CH81"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+            	<a class=at15b target="_self" href="/tv/attv.cfm?action=channeltime&channel_id=CH81&tday=2016-01-11">Star World </a>
+	<table border="1" cellspacing="1" cellpadding="2" class="at9" width="90%" align="center" bordercolor="#cddcaa">
+          <tr> 
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81">時間</td>
+            <td class=at9 height="19" align="center" bgcolor="#7AAB81" width="50%">片名</td>
+		
+			<tr>
+     	
+    
+            <td align="center" class=at9>00:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601110000&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>小小廚神美國版 S4</font></a><font color=#606060> 1</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>01:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601110100&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>醜聞風暴 第五季 S5</font></a><font color=#606060> 4</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>01:50</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601110150&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>慾望城市 第六季 S6</font></a><font color=#606060> 19</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>02:15</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601110215&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>慾望城市 第六季 S6</font></a><font color=#606060> 20</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>02:40</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601110240&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>慾望城市 </font></a><font color=#606060> 11</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>03:05</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601110305&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>慾望城市 </font></a><font color=#606060> 12</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>03:30</td>
+            <td class=at9 width=80%><font color=#ffffff>　<font color=#2A5C8A>【週六私房電影夜】</font>
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601110330&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>分歧者 </font></a><font color=#606060> 1</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>06:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601110600&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>我家也有米其林 </font></a><font color=#606060> 3</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>07:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601110700&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>醜聞風暴 第五季 S5</font></a><font color=#606060> 4</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>08:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601110800&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>小小廚神美國版 S4</font></a><font color=#606060> 1</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>09:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601110900&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>美國偶像 S15</font></a><font color=#606060> 2</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>11:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601111100&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>小小廚神美國版 S4</font></a><font color=#606060> 1</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>12:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601111200&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>食尚胖卡大對決2 S2</font></a><font color=#606060> 3</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>13:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601111300&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>醜聞風暴 第五季 S5</font></a><font color=#606060> 4</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>14:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601111400&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>獵豔情人 </font></a><font color=#606060> 13</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>15:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601111500&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>慾望城市 </font></a><font color=#606060> 10</font></font>
+            </td>            
+
+
+  	
+			<tr bgcolor=#FDFE8E>
+     	
+    
+            <td align="center" class=at9>15:30</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601111530&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>慾望城市 </font></a><font color=#606060> 11</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>16:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601111600&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>美國超級名模生死鬥 S22</font></a><font color=#606060> 13</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>17:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601111700&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>小小廚神美國版 S4</font></a><font color=#606060> 1</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>18:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601111800&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>廚神當道 美國版 S5</font></a><font color=#606060> 4</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>19:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601111900&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>六人行不行 </font></a><font color=#606060> 2</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>19:30</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601111930&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>六人行不行 </font></a><font color=#606060> 3</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>20:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601112000&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>廚神當道 美國版 S5</font></a><font color=#606060> 5</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>21:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601112100&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>心機女傭 S3</font></a><font color=#606060> 11</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>22:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601112200&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>2015維多利亞的秘密時尚內衣秀 </font></a><font color=#606060> 1</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>23:00</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601112300&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>慾望城市 </font></a><font color=#606060> 11</font></font>
+            </td>            
+
+
+  	
+			<tr>
+     	
+    
+            <td align="center" class=at9>23:30</td>
+            <td class=at9 width=80%><font color=#ffffff>　
+            
+            
+            <a target="_self" href="/tv/attv.cfm?action=tvdata&tvtimeid=MCH81201601112330&tday=2016-01-11&channel_id=CH81">
+            <font class=at11>慾望城市 </font></a><font color=#606060> 12</font></font>
+            </td>            
+
+
+  	
+	</table><BR>
+	
+      </TD>
+<TD><img src="http://images.atmovies.com.tw/images/spacer.gif" width=4 height=40></TD>
+
+<TD valign=top align=center width=100 nowrap>
+
+	<table border=3 cellspacing=2 cellpadding=2 bordercolor=#CDDCAA width=100%>
+	
+		<TR><td nowrap class=at9><a target="_self" href="#CH56">HBO電影台</a></td>
+	
+		<TR><td nowrap class=at9><a target="_self" href="#CH57">東森洋片台</a></td>
+	
+		<TR><td nowrap class=at9><a target="_self" href="#CH58">AXN動作台</a></td>
+	
+		<TR><td nowrap class=at9><a target="_self" href="#CH60">STAR MOVIES</a></td>
+	
+		<TR><td nowrap class=at9><a target="_self" href="#CH61">Cinemax</a></td>
+	
+		<TR><td nowrap class=at9><a target="_self" href="#CH62">好萊塢電影台</a></td>
+	
+		<TR><td nowrap class=at9><a target="_self" href="#CH81">Star World </a></td>
+	
+	</table>
+	<BR>
+	
+	<select name="FORMS" onChange="location.href=this.options[this.selectedIndex].value;" 
+                           STYLE="WIDTH: 100px; BORDER-RIGHT: #4f4f4f 1px solid; BORDER-TOP: #4f4f4f 1px solid; FONT-SIZE: 10pt; BORDER-LEFT: #4f4f4f 1px solid; COLOR: #0000cc; BORDER-BOTTOM: #4f4f4f 1px solid; BACKGROUND-COLOR: #fefefe">
+	<option selected> 選擇其它日期 ▼ </option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-08&group_id=M">01/08</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-09&group_id=M">01/09</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-10&group_id=M">01/10</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-11&group_id=M">01/11</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-12&group_id=M">01/12</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-13&group_id=M">01/13</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-14&group_id=M">01/14</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-15&group_id=M">01/15</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-16&group_id=M">01/16</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-17&group_id=M">01/17</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-18&group_id=M">01/18</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-19&group_id=M">01/19</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-20&group_id=M">01/20</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-21&group_id=M">01/21</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-22&group_id=M">01/22</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-23&group_id=M">01/23</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-24&group_id=M">01/24</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-25&group_id=M">01/25</option>
+	
+	<option value="/tv/attv.cfm?action=todaytime&tday=2016-01-26&group_id=M">01/26</option>
+	
+	</select>
+	<BR>
+
+<p align=center><script type="text/javascript"><!--
+google_ad_client = "pub-6580532459519002";
+/* 120x600, 已建立 2007/11/20 */
+google_ad_slot = "6126849263";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p> 
+</TD>
+
+</table>
+
+<br>
+<div class="clear"></div>
+<!-- 下方728廣告 -->
+
+	</div>
+    
+    
+
+</div><!-- container end -->
+<div class="clear"></div>
+<!-- 下方728廣告 -->
+ <DIV style="position:absolute;">
+ </DIV>
+<div style="margin-top:90px;"></div>
+	<img src="http://app.netage.com.tw/bin/counter/cfcounter.cfm?CID=atmovies" width=1>
+
+<div id="footer">
+<p>&copy;@movies 開眼電影網版權所有
+ | <a href="http://app.atmovies.com.tw/service/service.cfm?action=contact">聯絡我們</a>
+ | <a href="http://app.atmovies.com.tw/service/service.cfm?action=about&page=1">關於開眼</a> 
+ | <a href="http://app.atmovies.com.tw/service/service.cfm?action=about&page=4">服務中心</a> 
+ | <a href="http://www.hamovie.com.tw/bin/memberservice/memberservice.cfm">會員服務</a> | </p>
+</div>
+</div><!-- wrapper end -->
+</body>
+</html>
